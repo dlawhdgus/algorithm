@@ -5,5 +5,4 @@ function solution(num) {
     } else {
         return "Odd"
     }
-    return answer;
 }
