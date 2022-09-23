@@ -1,4 +1,4 @@
+//문자열을 정수로 바꾸기
 function solution(s) {
-    console.log(Number(s))
+    return Number(s)
 }
-solution("-1234")

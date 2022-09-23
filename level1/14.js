@@ -1,3 +1,4 @@
+//두 정수 사이의 합 
 function solution(a, b) {
     let sum,sum1,sum2 = 0
 

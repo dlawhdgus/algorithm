@@ -1,3 +1,4 @@
+//문자열 내  p와 y의 개수
 function solution(s){
     let low = s.toLowerCase()
     let find_p = low.split('p').length

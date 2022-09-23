@@ -1,3 +1,4 @@
+//자릿수더하기
 function solution(n) {
     let arr =[];
     let string_n = String(n).split('')

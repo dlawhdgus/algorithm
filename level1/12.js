@@ -1,3 +1,4 @@
+//x만큼 간격이 있는 n개 숫자
 function solution(x, n) {
     let a = []
     let b = []
@@ -18,4 +19,3 @@ function solution(x, n) {
         return a
     }
 }
-//.

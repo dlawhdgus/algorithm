@@ -1,3 +1,4 @@
+//하샤드수
 function solution(x) {
     let answer = 0
     x = x.toString()  //문자열로 변환 -> 배열 ex) 123
